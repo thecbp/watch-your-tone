@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Data files
+xml/
+voice_files/
+analyses/
+tone-perfect.csv
